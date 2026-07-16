@@ -34,9 +34,9 @@ Titanic-DataScience-Midsem/
 │
 ├── train.csv
 ├── titanic_cleaned.csv
-├── Titanic_Analysis.py
+├── Derrick Buabeng Otoo - 01259610B_ Data Science Midsem.ipynb
 ├── README.md
-└── 
+
 ```
 
 ---
@@ -261,7 +261,7 @@ pip install -r requirements.txt
 4. Run the Python script.
 
 ```bash
-python Titanic_Analysis.py
+python Derrick Buabeng Otoo - 01259610B_ Data Science Midsem.ipynb
 ```
 
 ---
